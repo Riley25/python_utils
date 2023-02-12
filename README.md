@@ -1,4 +1,4 @@
 ## Python Utils
 
-Common use functions for data cleaning, and plotting. 
+Common functions for data cleaning, and plotting. 
 
