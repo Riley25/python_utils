@@ -12,7 +12,7 @@ def send_email( email_receiver , file_path , buy = True):
 
     # Define email sender and receiver
     email_sender = 'option.notify@gmail.com'
-    email_password = 'jvbsjwmkghfxusls'
+    email_password = ''
 
     # Set the subject and body of the email    
     subject = 'Option Update'
